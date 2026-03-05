@@ -1,7 +1,5 @@
 # Automated Endpoint Containment with SOAR and EDR
 
-# Table of Contents
-
 > **Tools:** LimaCharlie (EDR) · Tines (SOAR) · Slack · Windows Server (Cloud VM)
 > 
 
